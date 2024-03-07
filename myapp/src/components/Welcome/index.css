@@ -1,0 +1,23 @@
+.welcome{
+    background-color: aqua;
+    height: 100vh;
+    text-align: center;
+    padding: 30px;
+}
+.box1{
+    background-color: azure;
+    height: 50vh;
+    padding: 60px;
+    margin: 20px;
+    font-family: cursive;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+button{
+    margin: 20px;
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: antiquewhite;
+}
